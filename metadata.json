@@ -1,6 +1,6 @@
 {
-  "name": "Par — Golf Scorecard & Course Companion",
-  "description": "A Flutter-inspired golf round tracker, live 18-hole scorecard, course yardage guide, and club analytics app.",
+  "name": "Smart Gym — Votre salle, à votre rythme",
+  "description": "Consultez les équipements disponibles et réservez vos créneaux chez Smart Gym.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
