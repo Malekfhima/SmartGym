@@ -1,0 +1,6 @@
+{
+  "name": "Par — Golf Scorecard & Course Companion",
+  "description": "A Flutter-inspired golf round tracker, live 18-hole scorecard, course yardage guide, and club analytics app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
